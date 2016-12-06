@@ -1,6 +1,6 @@
 # Проекты:
 
-### [Калькулятор динамических формул](https://github.com/divash95/c--tasks/wiki/Notation-calc)
+### [Калькулятор динамических формул](https://github.com/divash95/c--tasks/wiki/NotationCalc)
 
 
 
